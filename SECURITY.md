@@ -4,7 +4,7 @@
 
 Thank you for helping us keep **boss-net** projects secure. If you discover a security vulnerability, please report it to us **privately** by emailing:
 
-**security@boss-net.org**
+**security@khulnasoft.com**
 
 Include as much detail as possible, such as:
 
