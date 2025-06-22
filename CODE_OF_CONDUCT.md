@@ -31,7 +31,7 @@ Maintainers have the right and responsibility to remove, edit, or reject comment
 ## Reporting Guidelines
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please report it by contacting the **boss-net Security Team** at:  
-**security@boss-net.org**
+**security@khulnasoft.com**
 
 All reports will be handled with discretion and confidentiality.
 
