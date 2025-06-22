@@ -7,12 +7,27 @@ assignees: security-team
 
 ---
 
-**IMPORTANT:** Please do **NOT** open public issues for security vulnerabilities.  
-Send detailed reports privately to security@khulnasoft.com.
+⚠️ **Important:** Please **do NOT** open security issues publicly on GitHub.  
+Send detailed vulnerability reports **privately** to: security@khulnasoft.com.
 
 ---
 
 **Summary**
 
-...
+Provide a concise summary of the vulnerability.
 
+**Impact**
+
+Describe the potential impact or severity.
+
+**Steps to Reproduce**
+
+Explain how to reproduce the issue, including environment details.
+
+**Mitigation Suggestions**
+
+If known, suggest possible mitigation steps.
+
+**Additional Information**
+
+Add any other relevant details.
