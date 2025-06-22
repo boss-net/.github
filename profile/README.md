@@ -29,20 +29,6 @@ We draw inspiration from organizations like **Aqua Security**, **Tenable**, **Sy
 
 ---
 
-## 🚀 Our Projects
-
-| Project Name     | Description                                               | Status      |
-|------------------|-----------------------------------------------------------|-------------|
-| 🧪 `bosskit`      | Utility toolkit for secure pipelines                      | Active      |
-| 🐍 `canary-craft` | Generate and deploy canary tokens                         | In progress |
-| 📊 `open-threat-db` | Open threat intelligence datasets and feeds           | Ongoing     |
-| ⚙️ `secflow`      | Low-code SecOps workflows for analysts                    | Alpha       |
-| 🧠 `rag-defender` | AI-based agent for secure retrieval-augmented generation  | Beta        |
-
-> 💡 All our code is MIT/Apache licensed and built for the community, by the community.
-
----
-
 ## 🌍 Impact Snapshot
 
 | 📊 Metric             | 📦 Value             |
