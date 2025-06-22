@@ -1,56 +1,91 @@
-<h1 align="center">🌐 boss-net</h1>
+<h1 align="center">🛡️ boss-net</h1>
 <p align="center">
-  <strong>Bangladesh Open Source Security Network</strong><br>
-  Empowering the cybersecurity ecosystem through open collaboration.
+  <b>Bangladesh Open Source Security Network</b><br>
+  Empowering cybersecurity through transparency, collaboration, and open innovation.
+</p>
+
+<p align="center">
+  <a href="https://github.com/boss-net"><img src="https://img.shields.io/badge/Open%20Source-100%25-green?style=flat-square" alt="Open Source"></a>
+  <a href="https://github.com/boss-net/.github/blob/main/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Conduct-Respectful-blueviolet?style=flat-square" alt="Code of Conduct"></a>
+  <a href="mailto:security@khulnasoft.com"><img src="https://img.shields.io/badge/Report-Security%20Issue-red?style=flat-square" alt="Security Contact"></a>
+  <a href="https://github.com/boss-net/.github/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributing"></a>
 </p>
 
 ---
 
-## 🧠 About Us
+## 🧠 Who We Are
 
-**boss-net** (Bangladesh Open Source Security Network) is an open source organization committed to building secure, transparent, and impactful tools for:
+**boss-net** is a community-driven initiative focused on advancing cybersecurity from the heart of Bangladesh to the global open source stage.  
+We draw inspiration from organizations like **Aqua Security**, **Tenable**, **Sysdig**, and **Snyk**, but with a radical commitment to openness.
 
-- 🔍 Vulnerability & malware analysis  
-- 🎣 Canary tokens, honeypots & deception tools  
-- 📊 Open threat intelligence & shared datasets  
-- 🤖 AI-assisted automation for DevSecOps  
-- 🧪 Security research & red/blue teaming
+🧬 **Focus Areas:**
 
-We are inspired by organizations like **Aqua Security**, **Tenable**, **Sysdig**, and **Snyk** — but proudly open, community-driven, and rooted in Bangladesh.
+- 🐞 Vulnerability and malware analysis  
+- 🎣 Honeypots and canary token automation  
+- 📡 Threat intel and OSINT datasets  
+- 🤖 AI-powered DevSecOps  
+- 🔍 Continuous Security and Compliance  
+- 🔐 Supply chain integrity
 
 ---
 
-## 🛡️ Security Policy
+## 🚀 Our Projects
 
-We follow responsible disclosure and value security reports.  
-Please send vulnerability reports to:
+| Project Name     | Description                                               | Status      |
+|------------------|-----------------------------------------------------------|-------------|
+| 🧪 `bosskit`      | Utility toolkit for secure pipelines                      | Active      |
+| 🐍 `canary-craft` | Generate and deploy canary tokens                         | In progress |
+| 📊 `open-threat-db` | Open threat intelligence datasets and feeds           | Ongoing     |
+| ⚙️ `secflow`      | Low-code SecOps workflows for analysts                    | Alpha       |
+| 🧠 `rag-defender` | AI-based agent for secure retrieval-augmented generation  | Beta        |
 
-📩 **security@khulnasoft.com**  
-🔐 [View Security Policy](https://github.com/boss-net/.github/blob/main/SECURITY.md)
+> 💡 All our code is MIT/Apache licensed and built for the community, by the community.
+
+---
+
+## 🌍 Impact Snapshot
+
+| 📊 Metric             | 📦 Value             |
+|----------------------|----------------------|
+| 💻 Public Repos       | 70+                  |
+| 👥 Contributors       | Global & growing     |
+| 🛠 Tools Built        | 10+ and counting     |
+| 🔐 Security Focus     | 100% of projects     |
+| 🌐 Global Reach       | Bangladesh ➜ Global  |
+
+---
+
+## 🛡️ Security & Disclosure
+
+We follow responsible disclosure practices. Please report all vulnerabilities **privately** to:
+
+📩 **[security@khulnasoft.com](mailto:security@khulnasoft.com)**  
+🔒 [Read our Security Policy](https://github.com/boss-net/.github/blob/main/SECURITY.md)
 
 ---
 
 ## 🤝 Join Our Mission
 
-We welcome contributors from all backgrounds — whether you're:
+We welcome developers, analysts, hackers, researchers, and activists.
 
-- A researcher 👨‍🔬  
-- A developer 👩‍💻  
-- A threat analyst 🕵️‍♂️  
-- A policy maker 📚  
-- Or just passionate about security
-
-→ Start here: [CONTRIBUTING.md](https://github.com/boss-net/.github/blob/main/CONTRIBUTING.md)
+Start contributing → [CONTRIBUTING.md](https://github.com/boss-net/.github/blob/main/CONTRIBUTING.md)  
+Respect our values → [CODE_OF_CONDUCT.md](https://github.com/boss-net/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ---
 
-## 🚀 Stay Connected
+## 💬 Connect With Us
 
-🌐 Website: [khulnasoft.com](https://khulnasoft.com) (coming soon)  
-📫 Email: [security@khulnasoft.com](mailto:security@khulnasoft.com)  
-🧑‍💻 GitHub: [github.com/boss-net](https://github.com/boss-net)
+<p align="center">
+  <a href="mailto:security@khulnasoft.com"><img src="https://img.shields.io/badge/email-security@boss--net.org-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/boss-net"><img src="https://img.shields.io/badge/github-boss--net-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://boss-net.github.io"><img src="https://img.shields.io/badge/website-boss--net.github.io-0a0a0a?style=for-the-badge&logo=vercel"></a>
+</p>
 
 ---
 
-> ✨ Building secure software is not just a feature — it's a responsibility. Join us at boss-net and shape the future of open source cybersecurity.
+## 🧩 Powered By the People
+
+Together, we’re building a safer internet, one open tool at a time.
+
+> ✨ Want to support us? Star the repos. Contribute code. Spread the word.
 
