@@ -1,4 +1,4 @@
-# 👥 boss-net GitHub Meta Repository
+# 👥 BossNET GitHub Meta Repository
 
 Welcome to the **.github** repository of **boss-net** — the **Bangladesh Open Source Security Network**.
 
