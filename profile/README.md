@@ -1,4 +1,4 @@
-<h1 align="center"> 🧬 boss-net </h1>
+<h1 align="center"> 🧬 BOSSNΞT </h1>
 <p align="center">
   <b>Bangladesh Open Source Security Network</b><br>
   Empowering cybersecurity through transparency, collaboration, and open innovation.
